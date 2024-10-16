@@ -49,7 +49,7 @@ class Program4 {
                     double div = (double) a / b;
                     System.out.println("The division result is: " + div);
                 } else {
-                    System.out.println("Error: Division by zero is not allowed.");
+                    System.out.println("Error:  Division by zero is not allowed.");
                 }
                 break;
 
@@ -63,7 +63,7 @@ class Program4 {
                 break;
 
             default:
-                System.out.println("Invalid operation. Please choose a valid operator.");
+                System.out.println("Invalid operation  Please choose a valid operator.");
         }
     }
 }
